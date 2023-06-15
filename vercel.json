@@ -17,7 +17,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "/public/index.php"
+            "dest": "/resources/views/index.php"
         }
     ],
     "env": {
